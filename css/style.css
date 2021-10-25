@@ -1,0 +1,15 @@
+h1:hover {
+  color: red;
+}
+
+p:hover {
+  color: red;
+}
+.H1_MAIN {
+  color: blue;
+  font-size: 20px;
+}
+#iframe__gif {
+  width: 100px;
+  height: 400px;
+}
