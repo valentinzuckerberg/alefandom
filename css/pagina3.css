@@ -1,0 +1,49 @@
+body {
+}
+
+div div {
+  height: 100px;
+  width: 100px;
+  background-color: indigo;
+}
+
+.contenedor {
+  position: static;
+  margin: 0px;
+  display: block;
+  position: absolute;
+  left: 525px;
+  text-align: center;
+}
+.bloque-1 {
+  background-color: salmon;
+  position: absolute;
+  left: 208px;
+  top: 84px;
+}
+
+.bloque-2 {
+  background-color: blue;
+  position: absolute;
+  top: 84px;
+  left: 8px;
+}
+
+.bloque-3 {
+  background-color: grey;
+  position: absolute;
+  left: 208px;
+  top: 284px;
+}
+
+.test-caja-big {
+  height: 300px;
+  width: 300px;
+  display: block;
+  position: relaiive;
+  text-align: center;
+  background-color: greenyellow;
+  z-index: -1;
+  margin: 100px auto;}
+
+}
